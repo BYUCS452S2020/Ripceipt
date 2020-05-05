@@ -20,13 +20,13 @@ I'm looking for anyone who would like to join our already existing team for the 
 
 #### Technical
 
-- ####SQL
+- SQL:
     MySQL will be used for the relational database implementation.
 
-- ####NoSQL
+- NoSQL:
     [Sembast](https://pub.dev/packages/sembast) is the NoSQL database we will use to store data locally on-device. We will explore the scalability of the Flutter package and if this implementation is not performant enough, we will use a remote MongoDB instance.
 
-- ####Other
+- Other:
     The application is built in Flutter, so any experience with cross-platform mobile development or Dart is welcome.
     
     Objectives: 
