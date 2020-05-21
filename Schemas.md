@@ -11,8 +11,7 @@ Contains user information for login
 receipt (<ins>receipt_id</ins>, store_id, user_id)
 
 Contains receipt information
-
-# Foreign keys store_id and user_id reference the receipt issuer and receiver, respectively, entries in the store and user tables.
+* Foreign keys store_id and user_id reference the receipt issuer and receiver, respectively, entries in the store and user tables
 
 #### Store
 
